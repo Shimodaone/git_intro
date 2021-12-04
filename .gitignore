@@ -11,4 +11,4 @@
 .*
 
 # No igore this file
-!.gitignore 
+#!.gitignore 
