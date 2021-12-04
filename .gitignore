@@ -9,6 +9,3 @@
 
 # Ignore hidden files
 .*
-
-# No igore this file
-#!.gitignore 
