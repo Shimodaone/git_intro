@@ -1,0 +1,14 @@
+# Ignore dolphine config file
+.directory
+
+# Ignore vscode configs
+.vscode/
+
+# Ignore .log files
+*.log
+
+# Ignore hidden files
+.*
+
+# No igore this file
+!.gitignore 
